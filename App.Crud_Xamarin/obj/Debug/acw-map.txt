@@ -1,0 +1,8 @@
+App.Crud_Xamarin.MainActivity, App.Crud_Xamarin;md589f11752f815ef895ed1472dfcf8bc4e.MainActivity
+App.Crud_Xamarin.MainActivity, App.Crud_Xamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md589f11752f815ef895ed1472dfcf8bc4e.MainActivity
+App.Crud_Xamarin.MainActivity;md589f11752f815ef895ed1472dfcf8bc4e.MainActivity
+app.crud_xamarin.MainActivity;md589f11752f815ef895ed1472dfcf8bc4e.MainActivity
+App.Crud_Xamarin.Resources.ListViewAdapter, App.Crud_Xamarin;md51ad1c44e15d0dfb428720201bf5f5f41.ListViewAdapter
+App.Crud_Xamarin.Resources.ListViewAdapter, App.Crud_Xamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51ad1c44e15d0dfb428720201bf5f5f41.ListViewAdapter
+App.Crud_Xamarin.Resources.ListViewAdapter;md51ad1c44e15d0dfb428720201bf5f5f41.ListViewAdapter
+app.crud_xamarin.resources.ListViewAdapter;md51ad1c44e15d0dfb428720201bf5f5f41.ListViewAdapter
